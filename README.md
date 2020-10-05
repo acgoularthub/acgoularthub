@@ -11,12 +11,12 @@ I'm also studying BTech in System Analysis Development at Anhanguera-Uniderp.
 ---
 
 I'm currently learning:
-* Kunbernetes 
+* Kubernetes 
 * Docker
 * Python Language
 * Information Security
 * Web developing (HTML, CSS, Bootstrap, jquary, PHP, JavaScript and Typescript)
-* IT Infraestructure
+* IT infrastructure
 
 and many other interesting things.
 
