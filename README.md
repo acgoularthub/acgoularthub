@@ -15,7 +15,7 @@ I'm currently learning:
 * Docker
 * Python Language
 * Information Security
-* Web developing (HTML, CSS, Bootstrap, jquary, PHP, JavaScript and Typescript)
+* Web developing (HTML, CSS, Bootstrap, jquery, PHP, JavaScript and Typescript)
 * IT infrastructure
 
 and many other interesting things.
