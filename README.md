@@ -8,6 +8,7 @@
 Sou estudante bacharelando em Ciência da Computação pela Universidade do estado do Rio Grande do Norte e estudante técnico superior em Análise e Desenvolvimento de Sistemas pela Anhanguera/UniDerp, desempenhei o cargo de Analista de Infraestrutura de TI como estagiário no Departamento de Ensino a Distância - DEaD - também pela UERN. Também sou voluntário no Grupo de Segurança da Informação - GSINF/UERN. Com interesse em tecnologia, eletrônica e segurança da informação, procuro sempre estar aprendendo mais a respeito desses assuntos e tudo mais acerca. Entrand, agora, no mundo de containers e gerenciamento de clusters com docker swarm ou kubernetes, mirando nas habilidades de SRE.
 
 ---
+### Skills
 
 Ainda aprendendo:
 * Kubernetes 
@@ -24,8 +25,3 @@ e outros.
 <a href="https://github.com/acgoularthub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acgoularthub&layout=compact" />
 </a> 
-
----
-
-![Anderson GitHub Stats](https://github-readme-stats.vercel.app/api?username=acgoularthub&show_icons=true)
-
