@@ -35,6 +35,12 @@ I'm a bachelor's student in Computer Science at the State University of Rio Gran
 * [Cyber Security Foundation Professional Certificate (CertiProf)](https://www.credly.com/badges/535e316e-2f17-4138-b9c1-b352f9aa96be?source=linked_in_profile)
 * [Remote Work and Virtual Collaboration Professional Certificate (CertiProf)](https://www.credly.com/badges/250931a8-a79c-4c53-aea6-a03db87ac9e6?source=linked_in_profile)
 * [Scrum Foundation Professional Certificate (CertiProf)](https://www.credly.com/badges/92e921b7-90e6-46cf-ab14-3c4f1e357b18?source=linked_in_profile)
+* [Essential Cloud Infrastructure: Core Services (Coursera)](https://www.coursera.org/account/accomplishments/certificate/BFKDMJ48HTJG)
+* [Essential Cloud Infrastructure: Foundation (coursera)](https://www.coursera.org/account/accomplishments/certificate/W2ULEVRKT6UK)
+* [Mutirão DevOps (LinuxTips)](https://www.credential.net/f16d277c-3e8b-4821-b414-6fcba9cf89f5#gs.jxgypq)
+* [Elastic Cloud Infrastructure: Scaling and Automation (Coursera)](https://www.coursera.org/account/accomplishments/certificate/GN9ZFJYVAXCE)
+* [Essential Cloud Infrastructure: Core Infrastructure (Coursera)](https://www.coursera.org/account/accomplishments/certificate/YYDT5HM66Q3Y)
+
 
 ---
 
