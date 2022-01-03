@@ -7,13 +7,17 @@
 
 
 ### Sobre
-Sou estudante bacharelando em Ciência da Computação pela Universidade do estado do Rio Grande do Norte e estudante técnico superior em Análise e Desenvolvimento de Sistemas pela Anhanguera/UniDerp. Desempenhei o cargo de Analista de Infraestrutura de TI como estagiário no Departamento de Ensino a Distância - DEaD - também pela UERN. Também sou voluntário no Grupo de Segurança da Informação - GSINF/UERN. Com interesse em tecnologia, eletrônica e segurança da informação, procuro sempre estar aprendendo mais a respeito desses assuntos e tudo mais acerca. Entrand, agora, no mundo de containers e gerenciamento de clusters com docker swarm ou kubernetes, mirando nas habilidades de SRE.
+Sou estudante bacharelando em Ciência da Computação pela Universidade do estado do Rio Grande do Norte e sou graduado em técnico superior em Análise e Desenvolvimento de Sistemas pela Anhanguera/UniDerp. Desempenhei o cargo de Analista de Infraestrutura de TI, como estagiário, no Departamento de Ensino a Distância - DEaD - também pela UERN. Também sou voluntário no Grupo de Segurança da Informação - GSINF/UERN. Com interesse em tecnologia, eletrônica e segurança da informação, procuro sempre estar aprendendo mais a respeito desses assuntos e tudo mais acerca. Entrand, agora, no mundo de containers e gerenciamento de clusters com docker swarm ou kubernetes, mirando nas habilidades de SRE.
+
+Atualmente também sou pós graduando pela Faculeste nos cursos de Arquitetura e Gestão de Infraestrutura em T.I. e também em Segurança de Redes de Computadores, com previsão de conclusão ainda para o ano de 2022.
 
 ---
 
 ### About
 
-I'm a bachelor's student in Computer Science at the State University of Rio Grande do Norte (UERN) and a technical graduate (Senior Technician I suppose) student in Systems Analysis and Development at Anhanguera/UniDerp. I held the position of IT Infrastructure Analyst as an intern at the Department of Distance Learning - DEaD - also by UERN. I am also a volunteer in the Information Security Group - GSINF/UERN. With an interest in technology, electronics and information security, I always try to be learning more about these subjects and everything else about them. Now I'm a beginner studying about containers and cluster management with docker swarm or kubernetes, looking to develop SRE skills. 
+I'm a bachelor's student in Computer Science at the State University of Rio Grande do Norte (UERN) and a technical graduate (Senior Technician I suppose) in Systems Analysis and Development at Anhanguera/UniDerp. I held the position of IT Infrastructure Analyst as an intern at the Department of Distance Learning - DEaD - also by UERN. I am also a volunteer in the Information Security Group - GSINF/UERN. With an interest in technology, electronics and information security, I always try to be learning more about these subjects and everything else about them. Now I'm a beginner studying about containers and cluster management with docker swarm or kubernetes, looking to develop SRE skills. 
+
+I am currently also a graduate student at Faculeste in the courses of Architecture and Infrastructure Management in IT and also in Computer Network Security, with completion scheduled for this year.
 
 ---
 
@@ -26,6 +30,8 @@ I'm a bachelor's student in Computer Science at the State University of Rio Gran
 * Web developing (HTML, CSS, Bootstrap, jquery, PHP, JavaScript and Typescript)
 * IT infrastructure
 * Automation with Python
+* Arquitetura e Gestão de Infraestrutura em T.I. (pós Graduação)(FACULESTE)
+* Segurança de Redes de Computadores (Pós Graduação)(FACULESTE)
 
 #### Conquistas / Achievements
 
