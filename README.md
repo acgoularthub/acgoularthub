@@ -8,17 +8,27 @@
 
 
 ### Sobre
-Sou estudante bacharelando em Ciência da Computação pela Universidade do estado do Rio Grande do Norte e sou graduado em técnico superior em Análise e Desenvolvimento de Sistemas pela Anhanguera/UniDerp. Desempenhei o cargo de Analista de Infraestrutura de TI, como estagiário, no Departamento de Ensino a Distância - DEaD - também pela UERN. Também sou voluntário no Grupo de Segurança da Informação - GSINF/UERN. Com interesse em tecnologia, eletrônica e segurança da informação, procuro sempre estar aprendendo mais a respeito desses assuntos e tudo mais acerca. Entrand, agora, no mundo de containers e gerenciamento de clusters com docker swarm ou kubernetes, mirando nas habilidades de SRE.
+Paranaense que mora no nordeste, mesmo odiando calor a amando o frio, sou um futuro ex-gordinho, já estou começando a academia. Na segunda eu vou começar...
 
-Atualmente também sou pós graduando pela Faculeste nos cursos de Arquitetura e Gestão de Infraestrutura em T.I. e também em Segurança de Redes de Computadores, com previsão de conclusão ainda para o ano de 2022.
+Atualmente estou terminando duas pós na área de TI (Arquitetura e Gestão de Infraestrutura de TI e também Segurança de Redes de Computadores, ambos pela Faculeste), além de um curso intensivo de desenvolvimento WEB Full Stack (Cubos Academy). Sou graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera, além de Graduando em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte. 
+
+Tenho algumas certificações (descritas mais abaixo) e experiencia básica na área de infra, além de conhecimentos sobre segurança de infra e informação.
+
+
+Procuro atuar na área de Desenvolvimento Back-end ou, também, como Analista de Infraestrutura de TI, mas estou aberto a atuar em outras áreas de TI.
 
 ---
 
 ### About
 
-I'm a bachelor's student in Computer Science at the State University of Rio Grande do Norte (UERN) and a technical graduate (Senior Technician I suppose) in Systems Analysis and Development at Anhanguera/UniDerp. I held the position of IT Infrastructure Analyst as an intern at the Department of Distance Learning - DEaD - also by UERN. I am also a volunteer in the Information Security Group - GSINF/UERN. With an interest in technology, electronics and information security, I always try to be learning more about these subjects and everything else about them. Now I'm a beginner studying about containers and cluster management with docker swarm or kubernetes, looking to develop SRE skills. 
+Born in Paraná who lives in the northeast of brazil, even though I hate the heat and love the cold.
 
-I am currently also a graduate student at Faculeste in the courses of Architecture and Infrastructure Management in IT and also in Computer Network Security, with completion scheduled for this year.
+I am currently completing two postgraduate courses in the IT area (Architecture and Management of IT Infrastructure and also Computer Network Security, both at Faculeste - MG), in addition to an intensive course in Full Stack WEB development (Cubos Academy). I have a degree in Systems Analysis and Development from Anhanguera, in addition to graduating in Computer Science from the State University of Rio Grande do Norte.
+
+I have some certifications (described below) and basic experience in the infrastructure area, in addition to knowledge about infrastructure and information security.
+
+
+I hope to work in the area of Back-end Development or, also, as an IT Infrastructure Analyst, but I am open to work in other areas of IT.
 
 ---
 
