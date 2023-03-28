@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/acgoulart) 
 
 
-### 📚 Sobre
+# 📚 Sobre
 Paranaense que mora no nordeste, mesmo odiando calor a amando o frio, sou um futuro ex-gordinho, já estou começando a academia. Na segunda eu vou começar...
 
 Atualmente estou terminando duas pós na área de TI (Arquitetura e Gestão de Infraestrutura de TI e também Segurança de Redes de Computadores, ambos pela Faculeste), além de um curso intensivo de desenvolvimento WEB Full Stack (Cubos Academy). Sou graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera, além de Graduando em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte. 
@@ -19,7 +19,7 @@ Procuro atuar na área de Desenvolvimento Back-end ou, também, como Analista de
 
 ---
 
-### 📚 About
+# 📚 About
 
 Born in Paraná who lives in the northeast of brazil, even though I hate the heat and love the cold.
 
@@ -32,9 +32,9 @@ I hope to work in the area of Back-end Development or, also, as an IT Infrastruc
 
 ---
 
-#### 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
+## 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
 
-### 💪 Skills
+## 💪 Skills
 
 #### Ainda aprendendo / In progress:
 * Kubernetes 
@@ -46,7 +46,7 @@ I hope to work in the area of Back-end Development or, also, as an IT Infrastruc
 * Arquitetura e Gestão de Infraestrutura em T.I. (pós Graduação)(FACULESTE)
 * Segurança de Redes de Computadores (Pós Graduação)(FACULESTE)
 
-#### 🥇 Conquistas / Achievements
+## 🥇 Conquistas / Achievements
 
 * [Docker (LinuxTips)](https://www.credential.net/6bc44149-ddf5-471b-bd54-818d7def4ff2#gs.70l4le)
 * [Programa de cursos integrados Google IT Support Professional Certificate (Coursera)](https://www.coursera.org/account/accomplishments/specialization/VF96B958JFF8)
