@@ -32,7 +32,7 @@ I hope to work in the area of Back-end Development or, also, as an IT Infrastruc
 
 ---
 
-## 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
+#### 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
 
 ## 💪 Skills
 
