@@ -19,7 +19,7 @@ Procuro atuar na área de Desenvolvimento Back-end ou, também, como Analista de
 
 ---
 
-#### 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
+#### 🖥️ Dá uma passadinha no meu [portfólio](https://acgoularthub.github.io/anderson/) (in progress)
 
 ## 💪 Skills
 
