@@ -19,24 +19,11 @@ Procuro atuar na área de Desenvolvimento Back-end ou, também, como Analista de
 
 ---
 
-# 📚 About
-
-Born in Paraná who lives in the northeast of brazil, even though I hate the heat and love the cold.
-
-I am currently completing two postgraduate courses in the IT area (Architecture and Management of IT Infrastructure and also Computer Network Security, both at Faculeste - MG), in addition to an intensive course in Full Stack WEB development (Cubos Academy). I have a degree in Systems Analysis and Development from Anhanguera, in addition to graduating in Computer Science from the State University of Rio Grande do Norte.
-
-I have some certifications (described below) and basic experience in the infrastructure area, in addition to knowledge about infrastructure and information security.
-
-
-I hope to work in the area of Back-end Development or, also, as an IT Infrastructure Analyst, but I am open to work in other areas of IT.
-
----
-
 #### 🖥️ Come and see my [portfolio](https://acgoularthub.github.io/anderson/) (in progress)
 
 ## 💪 Skills
 
-#### Ainda aprendendo / In progress:
+#### Ainda aprendendo:
 * Kubernetes 
 * Python Language
 * Information Security
@@ -69,7 +56,7 @@ I hope to work in the area of Back-end Development or, also, as an IT Infrastruc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=acgoularthub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=acgoularthub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Troféus GitHub
 ![](https://github-profile-trophy.vercel.app/?username=acgoularthub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
