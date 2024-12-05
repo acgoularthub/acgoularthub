@@ -10,7 +10,7 @@
 # 📚 Sobre
 Paranaense que mora no nordeste, mesmo odiando calor a amando o frio, sou um futuro ex-gordinho, já estou começando a academia. Na segunda eu vou começar...
 
-Atualmente tabalho como Support Engineer pela CloudWalk e estou terminando duas pós na área de TI (Arquitetura e Gestão de Infraestrutura de TI e também Segurança de Redes de Computadores, ambos pela Faculeste), além de um curso intensivo de desenvolvimento WEB Full Stack (Cubos Academy). Sou graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera, além de Graduando em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte. 
+Tabalhei como Support Engineer pela CloudWalk e estou terminando duas pós na área de TI (Arquitetura e Gestão de Infraestrutura de TI e também Segurança de Redes de Computadores, ambos pela Faculeste), além de um curso intensivo de desenvolvimento WEB Full Stack (Cubos Academy). Sou graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera, além de Graduando em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte. 
 
 Tenho algumas certificações (descritas mais abaixo) e experiencia básica na área de infra, além de conhecimentos sobre segurança de infra e informação.
 
