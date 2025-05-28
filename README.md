@@ -8,14 +8,16 @@
 
 
 # 📚 Sobre
-Paranaense que mora no nordeste, mesmo odiando calor a amando o frio, sou um futuro ex-gordinho, já estou começando a academia. Na segunda eu vou começar...
+Sou um engenheiro de suporte e desenvolvedor Backend apaixonado por tecnologia e inovação, com mais de 9 anos de experiência em manutenção de computadores e infraestrutura de TI.
 
-Tabalhei como Support Engineer pela CloudWalk e estou terminando duas pós na área de TI (Arquitetura e Gestão de Infraestrutura de TI e também Segurança de Redes de Computadores, ambos pela Faculeste), além de um curso intensivo de desenvolvimento WEB Full Stack (Cubos Academy). Sou graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera, além de Graduando em Ciência da Computação pela Universidade do Estado do Rio Grande do Norte. 
+Desenvolvedor em formação e entusiasta de tecnologia, com uma trajetória dinâmica que entrelaça suporte técnico, infraestrutura de TI e desenvolvimento de software. Minha jornada profissional é marcada pela curiosidade incessante e pela busca constante de conhecimento nas áreas de tecnologia da informação.
 
-Tenho algumas certificações (descritas mais abaixo) e experiencia básica na área de infra, além de conhecimentos sobre segurança de infra e informação.
+Detenho formação acadêmica com graduação em Ciência da Computação e tecnólogo em Análise e Desenvolvimento de Sistemas. Pós-graduações em Arquitetura de Infraestrutura de TI e Segurança de Redes. Possuo certificações internacionais que atestam minha expertise técnica, como Oracle Cloud Foundation, Google IT Professional e Cyber Security Foundation. 
 
+Minha experiência técnica abrange múltiplas áreas, incluindo desenvolvimento web, infraestrutura, suporte técnico e cibersegurança, com conhecimento em tecnologias como JavaScript, Docker, Git e Linux.
 
-Procuro atuar na área de Desenvolvimento Back-end ou, também, como Analista de Infraestrutura de TI, mas estou aberto a atuar em outras áreas de TI.
+Meu objetivo profissional é conquistar espaço no mercado de desenvolvedor de sistemas BackEnd, com foco em crescer para a área de Site Reliability Engineering (SRE), combinando minha experiência técnica com habilidades de resolução de problemas e inovação, mas estou aberto, no momento, a vagas de Customer Support e outras na área de tecnologia.
+
 
 ---
 
