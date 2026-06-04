@@ -10,13 +10,13 @@
 # 📚 Sobre
 Sou um engenheiro de suporte e desenvolvedor Backend apaixonado por tecnologia e inovação, com mais de 9 anos de experiência em manutenção de computadores e infraestrutura de TI.
 
-Desenvolvedor em formação e entusiasta de tecnologia, com uma trajetória dinâmica que entrelaça suporte técnico, infraestrutura de TI e desenvolvimento de software. Minha jornada profissional é marcada pela curiosidade incessante e pela busca constante de conhecimento nas áreas de tecnologia da informação.
+Desenvolvedor e entusiasta de tecnologia, com uma trajetória dinâmica que entrelaça suporte técnico, infraestrutura de TI e desenvolvimento de software. Minha jornada profissional é marcada pela curiosidade incessante e pela busca constante de conhecimento nas áreas de tecnologia da informação.
 
-Detenho formação acadêmica com graduação em Ciência da Computação e tecnólogo em Análise e Desenvolvimento de Sistemas. Pós-graduações em Arquitetura de Infraestrutura de TI e Segurança de Redes. Possuo certificações internacionais que atestam minha expertise técnica, como Oracle Cloud Foundation, Google IT Professional e Cyber Security Foundation. 
+Detenho formação acadêmica com graduação em Ciência da Computação (aind anão concluído) e tecnólogo superior em Análise e Desenvolvimento de Sistemas. Pós-graduações em Arquitetura de Infraestrutura de TI e Segurança de Redes. Possuo certificações internacionais que atestam minha expertise técnica, como Oracle Cloud Foundation, Google IT Professional e Cyber Security Foundation. 
 
 Minha experiência técnica abrange múltiplas áreas, incluindo desenvolvimento web, infraestrutura, suporte técnico e cibersegurança, com conhecimento em tecnologias como JavaScript, Docker, Git e Linux.
 
-Meu objetivo profissional é conquistar espaço no mercado de desenvolvedor de sistemas BackEnd, com foco em crescer para a área de Site Reliability Engineering (SRE), combinando minha experiência técnica com habilidades de resolução de problemas e inovação, mas estou aberto, no momento, a vagas de Customer Support e outras na área de tecnologia.
+Meu objetivo profissional é conquistar espaço no mercado de desenvolvedor de sistemas Back-End, com foco em crescer para a área de Site Reliability Engineering (SRE), combinando minha experiência técnica com habilidades de resolução de problemas e inovação, mas estou aberto, no momento, a vagas de Customer Support e outras na área de tecnologia.
 
 
 ---
